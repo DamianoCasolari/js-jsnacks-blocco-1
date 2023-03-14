@@ -9,6 +9,6 @@ if (user_number_1.length > user_number_2.lenght) {
 } else if (user_number_1.length < user_number_2.length) {
     result.innerHTML = `La seconda parola ${user_number_2} è più lunga della prima ${user_number_1}`
 } else {
-    result.innerHTML = `Le parole corrispondo allo stesso numero di lettere = ${user_number_2, user_number_1 }`
+    result.innerHTML = `Le parole corrispondo allo stesso numero di lettere `
 
 }
