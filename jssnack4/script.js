@@ -40,7 +40,7 @@ const yourName = prompt("Inserisci il tuo nome")
 
 let confirm = true;
 let i = 0
-for (i < listGuest.length) {
+while (i < listGuest.length) {
     const singleName = listGuest[i];
     if (singleName == yourName) {
         document.querySelector(".result").innerHTML = `Il tuo nome (${yourName})è registarto nella lista degli invitati`
