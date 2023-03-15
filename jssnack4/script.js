@@ -45,7 +45,6 @@ while (i < listGuest.length) {
     if (singleName == yourName) {
         document.querySelector(".result").innerHTML = `Il tuo nome (${yourName})è registarto nella lista degli invitati`
         confirm = false;
-    
     }
     i++
 }
