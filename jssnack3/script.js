@@ -1,6 +1,4 @@
 
-
-
 // const result = document.querySelector("h1")
 // let totale = 0;
 
